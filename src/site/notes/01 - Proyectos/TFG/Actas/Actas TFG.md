@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Actas/Actas TFG.md","permalink":"/actas/actas-tfg/"}
+{"dg-publish":true,"dg-path":"Actas/Actas TFG.md","permalink":"/actas/actas-tfg/","tags":["gardenEntry"]}
 ---
 
 # 13/9/24
