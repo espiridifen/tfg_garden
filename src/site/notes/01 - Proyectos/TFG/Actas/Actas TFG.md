@@ -20,4 +20,5 @@ Estuve buscando papers de investigación en Google Académico, porque no recorda
 
 # 27/9/24
 
-Hubo una reunión grupal: 
+Hubo una reunión grupal: [[01 - Proyectos/TFG/Actas/2024-09-27_16.07 Notas de la reunión\|2024-09-27_16.07 Notas de la reunión]]
++ de 16:20ish a 
