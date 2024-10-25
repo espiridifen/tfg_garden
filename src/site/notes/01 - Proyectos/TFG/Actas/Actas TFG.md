@@ -36,4 +36,8 @@ Tuvimos una reunión personal:
 
 También hubo una reunión grupal:
 - de 15:43 a 
-- 
+
+
+## 25/10/24
+
+Tuvimos una reunión grupal:[[01 - Proyectos/TFG/Actas/2024-10-25_16.03 Notas de la reunión\|2024-10-25_16.03 Notas de la reunión]]
