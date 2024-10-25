@@ -29,4 +29,11 @@ Tuvimos una reunión personal:
 * de 11:02 a 11:34
 * Cosas a mirar:
 	* Aplicaciones de edición de sistemas dinámicos, gráficas
-	* 
+		* Simuladores de sistemas en web → qué techstack usan?
+	* Cómo vamos a vender esto al tribunal? Modelar un RPG ya existente, dar la herramienta para usar
+	* Qué framework usar?
+		* Heroku? Vercel? Netlify? Firebase?
+
+También hubo una reunión grupal:
+- de 15:43 a 
+- 
