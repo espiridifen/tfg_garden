@@ -29,9 +29,9 @@ Tuvimos una reunión personal:
 * de 11:02 a 11:34
 * Cosas a mirar:
 	* Aplicaciones de edición de sistemas dinámicos, gráficas
-		* Simuladores de sistemas en web → qué techstack usan?
-	* Cómo vamos a vender esto al tribunal? Modelar un RPG ya existente, dar la herramienta para usar
-	* Qué framework usar?
+		* Simuladores de sistemas en web → qué techstack usan? → [[01 - Proyectos/TFG/Investigación/Buscar posibles frameworks para la app del TFG#Next.js\|Buscar posibles frameworks para la app del TFG#Next.js]]
+	* Cómo vamos a vender esto al tribunal? Modelar un RPG ya existente, dar la herramienta para usar → **Igual podemos usar el proyecto de Mateo**
+	* Qué framework usar? → [[01 - Proyectos/TFG/Investigación/Buscar posibles frameworks para la app del TFG\|Buscar posibles frameworks para la app del TFG]]
 		* Heroku? Vercel? Netlify? Firebase?
 
 También hubo una reunión grupal:
@@ -42,9 +42,12 @@ También hubo una reunión grupal:
 
 Tuvimos una reunión grupal:[[01 - Proyectos/TFG/Actas/2024-10-25_16.03 Notas de la reunión\|2024-10-25_16.03 Notas de la reunión]]
 
+## Entre medias de las reuniones
++ Me leí el paper de J 
 # 08/11/24
 
 Tuvimos una reunión grupal: [[01 - Proyectos/TFG/Actas/2024-11-08_15.37 Notas de la reunión\|2024-11-08_15.37 Notas de la reunión]]
 
-# 12/11/24
+## 29/11/2024
 
+Tuvimos una reunión grupal: [[01 - Proyectos/TFG/Actas/2024-11-29_15.42 Notas de la reunión\|2024-11-29_15.42 Notas de la reunión]]
