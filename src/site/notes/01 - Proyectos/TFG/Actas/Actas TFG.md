@@ -59,3 +59,9 @@ Tuvimos una reunión grupal: [[01 - Proyectos/TFG/Actas/2024-11-29_15.42 Notas d
 * [[01 - Proyectos/TFG/Investigación/Papers/2025-02-05_10.02 Combat In Games\|2025-02-05_10.02 Combat In Games]]
 
 ## Reuniones
+
+* [[01 - Proyectos/TFG/Actas/2025-02-14_16.40 Acta Reunión\|2025-02-14_16.40 Acta Reunión]]
+
+## Semana 17 Febrero
+
+Empecé con el UML de la aplicación → 
