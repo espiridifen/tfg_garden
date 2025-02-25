@@ -12,7 +12,7 @@ Cosas que hacer:
 - [x] Mirar software
 	- [x] Slack
 	- [x] Overleaf
-	- [ ] Mendeley
+	- [x] Mendeley
 
 # 25/9/24
 
@@ -64,4 +64,10 @@ Tuvimos una reunión grupal: [[01 - Proyectos/TFG/Actas/2024-11-29_15.42 Notas d
 
 ## Semana 17 Febrero
 
-Empecé con el UML de la aplicación → 
+- Empecé con el UML de la aplicación en draw.io
+- También hice un rework de los temas que se van a dar en el [[01 - Proyectos/TFG/Investigación/Misc/2024-11-04_02.54 State of the Art\|State of The Art]].
+
+# Semana 25 Febrero
+
+* Progresé en el [[01 - Proyectos/TFG/Investigación/Misc/2024-11-04_02.54 State of the Art\|State of The Art]]
+* 
