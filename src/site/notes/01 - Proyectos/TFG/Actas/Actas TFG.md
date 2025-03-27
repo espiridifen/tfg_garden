@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Actas/Actas TFG.md","permalink":"/actas/actas-tfg/","tags":["gardenEntry"]}
 ---
 
-# 13/9/24
+2# 13/9/24
 
 Hubo una reunión grupal: [[01 - Proyectos/TFG/Actas/Notas de Reunión/2024-09-13_16.04 Notas Reunión 13-9\|2024-09-13_16.04 Notas Reunión 13-9]]
 + de 16:01 a 17:40
@@ -94,3 +94,17 @@ Tuvimos una reunión grupal: [[01 - Proyectos/TFG/Actas/Notas de Reunión/2024-1
 
 - Esta semana se dedicará a implementar la base de datos y tener el diseño del editor.
 - Al implementar Supabase, me he dado cuenta que tendré que desconectar Auth.js para utilizar el que tiene Supabase directamente. Me va a tocar empezar de cero otra vez T_T
+# Semana 10 Marzo
+## Investigación
+
+* Me he estado informando más de cómo funciona Supabase y par qué quiero usarlo.
+* También he empezado a cerrar cosas del diseño que quiero para los proyectos de Progpoint, haciendo un estudio de el sistema de combate de Honkai: Star Rail [aquí]([[01 - Proyectos/TFG/Diseño/2025-03-19_10.57 Modelo de datos Progpoint\|2025-03-19_10.57 Modelo de datos Progpoint]])
+## Reuniones
+
+## Desarrollo
+
+## Bloqueos actuales
+
+- [ ] Todavía no tengo ni idea de cómo crear y diseñar la base de datos, es un bloqueo bastante gordo
+- [ ] Necesito continuar con el diseño de las páginas en Penpot, pero puede esperar al diseño del backend
+- [ ] Tengo que tener claro el modelo de proyecto que quiero. Eso es lo más prioritario de todo.
